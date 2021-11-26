@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cadastro de Produtos</string>
+    <string name="title_activity_formulario_produtos">FormularioProdutos</string>
+</resources>
